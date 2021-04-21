@@ -5,11 +5,12 @@
 
 ## Seja bem vindo ao meu Github. Sinta-se a vontade pra entrar em contato e contribuir com meus trabalhos.
 
-### Sobre mim
+### :technologist: Sobre mim
 Sou desenvolvedor Fullstack com foco em desenvolvimento móvel. Entusiasta do Flutter SDK, me apaixonei por criar e dar vida a UI em dispositivos móveis. 
 Caso queira ver um pouco do meu trabalho meu portifólio está disponível [clicando aqui](https://danilogocarlos.github.io/portfolio/).
 
-:computer:
+
+### :computer: Minha stack
 
 var stack = {
 
@@ -20,3 +21,9 @@ var stack = {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Mobile": "Dart/Flutter",
 
 };
+
+### :chart_with_upwards_trend: Statísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilogocarlos)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danilogocarlos&show_icons=true)
