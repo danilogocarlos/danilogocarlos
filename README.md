@@ -25,5 +25,4 @@ var stack = {
 ### :chart_with_upwards_trend: Statísticas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilogocarlos)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danilogocarlos&show_icons=true)
