@@ -25,4 +25,4 @@ var stack = {
 ### :chart_with_upwards_trend: Statísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilogocarlos&langs_count=3&theme=gotham&custom_title=Linguagens&&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danilogocarlos&show_icons=true&theme=gotham&custom_title=Status)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danilogocarlos&show_icons=true&theme=gotham&custom_title=Status&&hide=contribs,issues)
